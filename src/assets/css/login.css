@@ -1,0 +1,49 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.title-app {
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 1;
+
+}
+.title-app span{
+    font-size: 24px;
+    line-height: 30px;
+}
+.title-login {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 36px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.045em;
+}
+.form-custom{
+    min-width: 394px;
+    min-height: 60px;
+    border: 1px solid #9B9B9B;
+    box-sizing: border-box;
+    border-radius: 17px;
+}
+.form-custom-double{
+    min-width: 180px;
+    min-height: 60px;
+
+}
+ul .nav-item{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    text-align: center;
+}
+.active {
+    background: #2EC4B6; 
+    border-radius: 20px 
+}
